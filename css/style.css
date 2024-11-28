@@ -81,12 +81,8 @@
     scale: 1.1;
 }
 #btn-mode{
-    font-size: 12px;
-    border: 1px solid black;
-    border-radius: 5px;
-    color: black;
-    padding: 5px;
-    width: 80px;
+border: none;
+
 }
 body{
     background-color: white;
